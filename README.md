@@ -21,3 +21,23 @@ This project uses **Computer Vision** and **Hand Tracking** to detect the distan
 - MediaPipe
 - Pycaw (Python Core Audio Windows Library)
 - Time module
+
+  ---
+
+  ## Install the dependencies
+- pip install opencv-python mediapipe pycaw
+
+---
+
+▶️ Usage
+Run the script
+
+Show your hand to the webcam.
+
+Pinch motion with thumb and index finger:
+
+Stretch: Increase volume 🔊
+
+Shrink: Decrease volume 🔉
+
+
